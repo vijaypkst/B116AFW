@@ -1,6 +1,0 @@
-print('ABC'.isupper())
-print('ABc'.isupper())
-print('AB7'.isupper())
-print('AB7&- '.isupper())
-print('aB7'.isupper())
-print('123'.isupper())

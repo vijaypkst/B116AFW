@@ -1,5 +1,0 @@
-print('hi')
-print('bye')
-print('------------')
-print('hi',end='-')
-print('bye')

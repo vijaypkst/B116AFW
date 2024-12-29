@@ -1,5 +1,0 @@
-print('123'.isnumeric())
-print('Rs123'.isnumeric())
-print('12$'.isnumeric())
-print('10 45'.isnumeric())
-print('100.45'.isnumeric())

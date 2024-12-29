@@ -1,6 +1,0 @@
-print('abc123'.isalnum())
-print('abc'.isalnum())
-print('123'.isalnum())
-print('abc$123'.isalnum())
-print('abc1.23'.isalnum())
-print('abc 123'.isalnum())
