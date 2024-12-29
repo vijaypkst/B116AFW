@@ -1,0 +1,11 @@
+name='bhanu  prakasha'
+print(name.find('bhanu'))
+print(name.find('ravi'))
+print(name.find('Bhanu'))
+print(name.find('prakash'))
+print(name.find('asha'))
+print(name.find('anu'))
+print(name.find('akash'))
+print(name.find('akash'))
+print(name.find('hanu'))
+print(name.find('a'))
