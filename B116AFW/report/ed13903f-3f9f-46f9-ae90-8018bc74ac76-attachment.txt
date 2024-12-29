@@ -1,0 +1,10 @@
+path of config.properties C:\Users\vijay\PycharmProjects\B116AFW\generic/../config.properties
+xl path is C:\Users\vijay\PycharmProjects\B116AFW\generic/../data/input.xlsx
+Read data from config.properties
+Open the Chrome Browser in Local System
+maximize the browser
+Enter the URL: https://pos.aksharatraining.in/pos/public/
+Set ITO: 7
+Set ETO: 8
+Err msg is dispalyed
+Close the browser

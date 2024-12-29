@@ -6,7 +6,7 @@ from page.login_page import LoginPage
 from page.home_page import HomePage
 class Test_InValidLogin(BaseClass):
     @pytest.mark.run(order=2)
-    def test_valid_login(self):
+    def test_invalid_login(self):
         un = Utility.get_xldata(self.xl_path,"Invalid_login",2,1)
         pw = Utility.get_xldata(self.xl_path, "Invalid_login", 2, 2)
     # 1. enter valid un
