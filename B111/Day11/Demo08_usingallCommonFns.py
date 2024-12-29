@@ -1,0 +1,9 @@
+a={10,20,30}
+print(a)
+print(type(a))
+print(len(a))
+print(id(a))
+print(min(a))
+print(max(a))
+print(sum(a))
+print(sorted(a,reverse=True))
