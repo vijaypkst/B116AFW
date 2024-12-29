@@ -20,10 +20,8 @@ class LoginPage:
     def click_go_button(self):
         self.__driver.find_element(*self.__GO).click()
 
-    def verify_error_message_is_Displayed(self):
-        self.__driver.find_element(*self.__errormsg)
 
-    def verify_home_is_displayed(self, wait):
+    def verify_err_is_displayed(self, wait):
         try:
             wait.until(expected_conditions.visibility_of_element_located(self.__errormsg))
             print('Err msg is dispalyed')
